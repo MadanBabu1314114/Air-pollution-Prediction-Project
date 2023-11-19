@@ -3,6 +3,8 @@
 ## Overview
 
 The Air Pollution Prediction Python project focuses on predicting air pollution based on a dataset that monitors the variation in indoor gas concentration over time. The data collected from an array of 6 low-cost sensors is used to evaluate the type of activity carried out in a room. Through the implementation of artificial intelligence, a quantitative approach to determining gas concentration is achieved without the need for careful sensor calibration.
+![image](https://github.com/MadanBabu1314114/Air-pollution-Prediction-Project/assets/123216438/1413aba7-35cd-4d5c-9147-20c24f790759)
+
 
 ## Context
 
