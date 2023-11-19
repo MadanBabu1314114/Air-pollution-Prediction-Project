@@ -39,27 +39,18 @@ Gambi, Ennio (2020), “Air Quality dataset for ADL classification”, Mendeley 
 
 Special thanks to Ennio Gambi for providing the dataset for this project.
 
-## Project Structure
-
-- **`notebooks/`:** Jupyter notebooks for data exploration, model training, and evaluation.
-- **`src/`:** Python scripts for data preprocessing, model building, and utility functions.
-- **`data/`:** Contains the dataset and any additional data files.
-- **`models/`:** Saved model files after training.
+ 
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/air-pollution-prediction.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Explore the Jupyter notebooks in the `notebooks/` directory for detailed analysis.
-4. Execute the scripts in the `src/` directory for data preprocessing and model training.
+ Clone the repository: `git clone https://github.com/your-username/air-pollution-prediction.git`
+ 
 
 ## Dependencies
 
 - `numpy`
 - `pandas`
-- `matplotlib`
-- `seaborn`
+- `shad`
 - `scikit-learn`
-- `tensorflow`
+ 
 
-Feel free to contribute, provide feedback, or report issues. Happy coding!
