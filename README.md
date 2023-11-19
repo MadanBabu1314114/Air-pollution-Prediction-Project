@@ -45,7 +45,7 @@ Special thanks to Ennio Gambi for providing the dataset for this project.
 
 ## Getting Started
 
- Clone the repository: `git clone https://github.com/your-username/air-pollution-prediction.git`
+ Clone the repository: `git@github.com:MadanBabu1314114/Air-pollution-Prediction-Project.git`
  
 
 ## Dependencies
